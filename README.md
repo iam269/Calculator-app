@@ -10,6 +10,10 @@ A modern calculator application built with Flutter, featuring a dark theme and i
 - Modern dark theme design 🌙
 - Responsive button layout 📱
 
+## Screenshots 📸
+
+![Calculator App Presentation](images/presentation.png)
+
 ## Getting Started 🚀
 
 ### Prerequisites
